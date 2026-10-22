@@ -1,7 +1,15 @@
 # BloodHawk 🦅🩸
 ### Advanced Tactical Blood Tracking & Optical Game Recovery
+**Developed by HDR Consulting**
 
-**BloodHawk** is an advanced field application built for hunters, trackers, and outdoor retrieval specialists. BloodHawk leverages high-speed native computer vision (OpenCV / NDK C++17), multi-spectral blood chemistry envelope classification, dynamic background color-space repulsion, real-time GPS trail mapping with offline topological cache, and audio geiger feedback.
+**BloodHawk** is an advanced optical field application developed by **HDR Consulting** for hunters, trackers, and outdoor retrieval specialists. BloodHawk leverages high-speed native computer vision (OpenCV / NDK C++17), multi-spectral blood chemistry envelope classification, dynamic background color-space repulsion, real-time GPS trail mapping with offline topological cache, and audio geiger feedback.
+
+---
+
+## 🏢 Author & Ownership
+* **Developer / Author:** HDR Consulting
+* **Application:** BloodHawk (Production Edition)
+* **Official Releases:** [github.com/keithhurley/BloodHawk-Release](https://github.com/keithhurley/BloodHawk-Release)
 
 ---
 
